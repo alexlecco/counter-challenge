@@ -2,8 +2,9 @@
 Challenge de Gentleman Programming
 https://www.youtube.com/watch?v=YFMqm5DWZ40
 
-este challenge será creado usando vite y typescript
-para el manejo de estado global puede ser context o zustand
+- este challenge será creado usando vite y typescript
+- para el manejo de estado global podes usar context o zustand
+- agregar 2 rutas, con cada solución /alex y /isa
 
 ```
 step 1:
